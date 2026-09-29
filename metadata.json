@@ -1,0 +1,6 @@
+{
+  "name": "NEW KGN INSTITUTE",
+  "description": "Comprehensive online education and coaching institute application for students, teachers, and admins featuring live classes, recorded lectures, study notes, tests, and assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
